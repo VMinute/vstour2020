@@ -1,0 +1,2 @@
+All the code is licensed under GPLv3.
+The slides are released under the Creative Common license, you are free to re-use them also for commercial purposes as long as you don't remove a reference to the original author.
